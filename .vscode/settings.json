@@ -1,0 +1,12 @@
+{
+  "volar.tsPlugin": true,
+  "prettier.enable": false,
+  "volar.tsPluginStatus": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "files.associations": {
+    "*.css": "postcss",
+  },
+}
